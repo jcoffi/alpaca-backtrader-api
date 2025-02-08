@@ -28,7 +28,7 @@ setup(
     long_description_content_type='text/markdown',
     author='Alpaca',
     author_email='oss@alpaca.markets',
-    url='https://github.com/alpacahq/alpaca-backtrader-api',
+    url='https://github.com/jcoffi/alpaca-backtrader-api',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.7',

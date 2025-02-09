@@ -1,7 +1,7 @@
-backtrader==1.9.78.123
-alpaca-trade-api==3.2.0
+backtrader>=1.9.78.123
+alpaca-trade-api>=3.2.0
 exchange-calendars
 matplotlib
-msgpack==1.0.3
+msgpack>=1.0.3
 numpy
-pandas==2.2.3
+pandas>=2.2.3
